@@ -53,22 +53,21 @@ The analysis uses three CSV datasets extracted from well-known film industry dat
 ### Visualizations
 
 #### Visualization 1 — Median ROI by Genre
-![Median ROI by Genre](images/q1_genre_roi.png)
-
+![Median ROI by Genre]('../images/q1_genre_roi.png')
 Horror (307%) and Mystery (217%) deliver the highest median ROI among theatrical genres, meaning these films consistently earn back more than double their production budget — largely because they are made on relatively small budgets. Animation (209%) and Family (199%) also rank highly, suggesting broad audience appeal is another reliable path to profitability.  
 *Note: Although TV Movie ranks first at 345% ROI, it has been excluded from the recommendation because it refers to television productions rather than theatrical film releases.*
 
 ---
 
 #### Visualization 2 — ROI Distribution by Production Budget Tier
-![ROI by Budget Tier](images/q2_budget_roi.png)
+![ROI by Budget Tier]('../images/q2_distribution_production_tier.png')
 
 Films with very high budgets (over $100M) show the strongest and most consistent ROI, while low-budget films show a wide spread — meaning some do very well but many do not. Mid-range budgets ($10M–$50M) offer a reasonable middle ground for a studio just starting out.
 
 ---
 
 #### Visualization 3 — Average Worldwide Gross by Release Month
-![Average Gross by Release Month](images/q3_release_month.png)
+![Average Gross by Release Month]('../images/q3_gross_release_month.png')
 
 Films released in May ($172M), June ($152M), and July ($149M) earn significantly more on average than films released in any other month, with May standing out as the single best month to release a film. November ($145M) also performs well, while January ($51M), September ($50M), and October ($53M) are consistently the weakest months.
 
